@@ -13,7 +13,7 @@
 - Se definen las iteraciones y las métricas ilustradas en los gráficos de comparación de desempeño de los modelos de Redes Neuronales Convolucionales.
 - Se añade la manera en la que se dividieron los datos en sets de `test`, `training` y `validation`.
 - Se añaden las matrices de confusión obtenidas.
-- Se reportan medidas adicionales de recall y precision.
+- Se reportan medidas adicionales de `recall` y `precision`.
 - Se especifica el modelo elegido de Red Neuronal Convolucional.
 - Se explica en qué medida se resolvió el problema planteado.
 - Se reordenaron los capítulos del reporte.
